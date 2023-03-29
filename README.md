@@ -1,4 +1,7 @@
-### Hi there 👋
+### PhD student studying Medical image processing at the University of Lincoln : 2020 - 2024
+
+This is the readme for projevt overview.
+
 
 <!--
 **Jmckone1/Jmckone1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
