@@ -1,7 +1,10 @@
-### PhD student studying Medical image processing at the University of Lincoln : 2020 - 2024
+ <!-- ### PhD student studying Medical image processing at the University of Lincoln : 2020 - 2024
 
-This is the readme for projevt overview.
+This is the readme for Project overview. -->
 
+Todo List
+- Currently working on medical image processing using deep learning.
+- Research and format this page accordingly
 
 <!--
 **Jmckone1/Jmckone1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
